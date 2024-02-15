@@ -1,6 +1,9 @@
 # REGRESIÓN LINIAL 📈
 La regresión lineal es un método estadístico utilizado para modelar la relación entre una variable dependiente y una o más variables independientes. En el contexto de Python, hay varias bibliotecas que permiten realizar regresión lineal, siendo una de las más comunes la librería scikit-learn..
 
+![image](https://github.com/agcp9/SSA_py/assets/71346104/63db93f0-95c5-4a7f-88b5-dbf7f6d45c4a)
+
+
 ## ¿Cómo funciona la regresión lineal en Python?
 ### 1. Modelo Lineal:
 La regresión lineal asume que existe una relación lineal entre las variables independientes y la variable dependiente.
