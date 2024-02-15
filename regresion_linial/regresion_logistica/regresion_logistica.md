@@ -1,6 +1,9 @@
 # REGRESIÓN LOGISTICA 📈
 La regresión logística es un modelo utilizado para la clasificación de datos binarios, es decir, cuando la variable dependiente es categórica y tiene dos categorías posibles. Aunque el nombre contiene la palabra "regresión", la regresión logística se utiliza comúnmente para problemas de clasificación en lugar de regresión.
 
+![image](https://github.com/agcp9/SSA_py/assets/71346104/c2b69846-54ba-4e64-9f38-bfafc0f0ad01)
+
+
 ## ¿Cómo funciona la regresión logistica en Python?
 ### 1. Función Sigmoide:
 - La regresión logística utiliza la función sigmoide para transformar la salida del modelo en un valor entre 0 y 1. La función sigmoide es �(�)=11+�−�σ(z)= 1+e −z1​ , donde � z es la combinación lineal de las características.
