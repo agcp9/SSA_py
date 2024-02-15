@@ -6,7 +6,13 @@ La regresión logística es un modelo utilizado para la clasificación de datos 
 - La regresión logística utiliza la función sigmoide para transformar la salida del modelo en un valor entre 0 y 1. La función sigmoide es �(�)=11+�−�σ(z)= 1+e −z1​ , donde � z es la combinación lineal de las características.
 
 ### 2. Modelo Logístico:
-- El modelo logístico es ln(�1−�)=�0+�1�1+�2�2+…+����ln( 1−pp)=β 0+β 1​x 1​+β 2x 2+…+ n n, donde �p es la probabilidad de que la variable dependiente sea igual a 1 y �0,�1,…,��β 0,β 1,…,β n son los coeficientes del modelo.
+- El modelo logístico es σ(z)= 
+1+e 
+−z
+ 
+1
+​
+ ,, donde �p es la probabilidad de que la variable dependiente sea igual a 1 y �0,�1,…,��β 0,β 1,…,β n son los coeficientes del modelo.
 
 ### 3. Entrenamiento:
 - Los coeficientes se estiman utilizando técnicas de optimización, como el descenso de gradiente, para maximizar la verosimilitud de los datos observados.
