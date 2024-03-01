@@ -1,4 +1,4 @@
-# REGRESIÓN PPLINOMICA 📈
+# REGRESIÓN POLINOMICA 📈
 
  La regresión polinómica, también conocida como regresión polinomial, es un tipo de análisis de regresión en el que la relación entre la variable independiente (X) y la variable dependiente (Y) se modela utilizando un polinomio de grado n.
  
