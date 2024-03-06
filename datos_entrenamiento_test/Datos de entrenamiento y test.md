@@ -1,8 +1,8 @@
-﻿**Datos de entrenamiento y test**
+﻿#Datos de entrenamiento y test#
 
 Dividir los datos en conjuntos de entrenamiento y prueba es una práctica estándar en aprendizaje automático para evaluar la capacidad de generalización de los modelos. Permite asegurar que el modelo no solo aprenda a replicar los datos con los que se entrena (sobreajuste), sino que también pueda realizar predicciones precisas sobre datos nuevos o no vistos.
 
-# En Python solemos utilizar la libreria: from sklearn.model_selection import train_test_split
+## En Python solemos utilizar la libreria: from sklearn.model_selection import train_test_split
 La línea de código X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2) en Python, utilizando la función train_test_split de Scikit-learn, se utiliza para dividir los datos en conjuntos de entrenamiento y prueba. Aquí está el detalle de lo que hace y para qué sirve cada componente:
 
 - train_test_split: Es una función de la biblioteca Scikit-learn que divide aleatoriamente los datos en dos grupos: uno para entrenar el modelo y otro para probar su rendimiento.
